@@ -1,4 +1,6 @@
 🚀 AI Notes Token Optimizer Engine
+
+
 ![Python](https://img.shields.io/badge/Python-3.10+-blue)
 ![Gemini](https://img.shields.io/badge/Google-Gemini%202.5%20Flash-orange)
 ![AI](https://img.shields.io/badge/AI-Generative%20AI-purple)
