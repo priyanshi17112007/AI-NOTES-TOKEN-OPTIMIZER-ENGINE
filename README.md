@@ -50,17 +50,17 @@
 
 ### Libraries Used
 
-google-genai
-python-dotenv
-os
-sys
-json 
-time
-hashlib
-collections
-typing
-dataclasses 
-functools
+google-genai,
+python-dotenv,
+os,
+sys,
+json, 
+time,
+hashlib,
+collections,
+typing,
+dataclasses, 
+functools.
 
 ## Running the Project
 
