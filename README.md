@@ -172,8 +172,9 @@ Input Notes
 → Cost Tracking
 → Summary Generation
 → Report Builder
------------------------------------------------------------------------------------------------------------------------------👨‍💻 Author
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-Priyanshi Sharma
-Begginer AI Developer | Python learner | Building Intelligent AI Systems
+
+
+👨‍💻 Author
+Priyanshi Sharma|
+Begginer AI Developer | Python learner | Building Intelligent AI Systems|
 📧 erpriyanshisharma15@gmail.com
