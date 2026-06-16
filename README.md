@@ -63,8 +63,8 @@ dataclasses,
 functools.
 
 ## Running the Project
+This project supports both *Google Colab* and *VS Code / Local Python Environment*.
 
-This project supports both **Google Colab** and **VS Code / Local Python Environment**.
 ----------------------------------------------------------------------------------------------------------------------------
 # Option 1: Run on Google Colab
 
