@@ -174,7 +174,7 @@ Input Notes
 → Report Builder
 
 
-👨‍💻 Author
+👨‍💻 Author:-
 Priyanshi Sharma|
 Begginer AI Developer | Python learner | Building Intelligent AI Systems|
-📧 erpriyanshisharma15@gmail.com
+ erpriyanshisharma15@gmail.com
