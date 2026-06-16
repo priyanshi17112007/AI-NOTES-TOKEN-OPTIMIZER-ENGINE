@@ -157,13 +157,8 @@ INPUT_RATE_USD=0.30
 OUTPUT_RATE_USD=2.50
 DAILY_LIMIT_INR=50
 ```
-
-## Step 5: Run Application
-
-```bash
-python main.py
-
-
+# Step 5: Run Application
+:-python main.py
 
 
 -----------------------------------------------------------------------------------------------------------------------------
