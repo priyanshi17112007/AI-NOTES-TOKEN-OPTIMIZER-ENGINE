@@ -54,12 +54,12 @@ google-genai
 python-dotenv
 os
 sys
-json
+json 
 time
 hashlib
 collections
 typing
-dataclasses
+dataclasses 
 functools
 
 ## Running the Project
